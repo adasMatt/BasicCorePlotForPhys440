@@ -1,6 +1,7 @@
 # cosX2
 
 Start new project as usual
+
 File -> New File -> File Templates Plotting (select all targets)
 Delete File.swift
 
