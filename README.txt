@@ -8,7 +8,7 @@ Delete File.swift
 Copy from App to [nameOfActualApp], delete App
 Copy from contentViewText to ContentView, delete contentViewText
 
-File -> Swift Packages -> add dependency -> webpage{https://github.com/core-plot/core-plot/} release 2.4
+File -> Swift Packages -> add dependency -> webpage{https://github.com/core-plot/core-plot/} release-2.4
 
 Click main project -> General -> Frameworks -> Add CorePlot
 
