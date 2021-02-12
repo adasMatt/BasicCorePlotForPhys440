@@ -1,7 +1,7 @@
 # cosX2
 
 Start new project as usual
-File -> New File -> File Templates Plotting (select all targets)
+File -> New File -> File Templates Plotting (select all targets) \n
 Delete File.swift
 Copy from App to [nameOfActualApp], delete App
 Copy from contentViewText to ContentView, delete contentViewText
