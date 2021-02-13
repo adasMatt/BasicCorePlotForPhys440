@@ -1,4 +1,4 @@
-# cosX2
+# BasicCorePlotForPhys440
 
 Start new project as usual
 
