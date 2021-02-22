@@ -10,7 +10,7 @@ Copy from contentViewText to ContentView, delete contentViewText
 
 File -> Swift Packages -> add dependency -> webpage{https://github.com/core-plot/core-plot/} release-2.4
 
-Click main project -> General -> Frameworks -> Add CorePlot
+Click main project -> Targets -> General -> Frameworks -> Add CorePlot
 
 Tests -> Build Phases -> Link Binary w/ Lib -> Add CorePlot
 
