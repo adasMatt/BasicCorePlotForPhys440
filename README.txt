@@ -1,4 +1,4 @@
-# BasicCorePlotForPhys440
+# BasicCorePlotForPhys440 - see files within Shared folder here if anything is unclear.
 
 Start new project as usual
 
