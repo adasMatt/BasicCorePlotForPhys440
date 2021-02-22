@@ -1,4 +1,4 @@
-# BasicCorePlotForPhys440 - see files within Shared folder here if anything is unclear.
+# BasicCorePlotForPhys440 - see files within Shared folder here if anything is unclear. This example should plot y = x with CorePlot.
 
 Start new project as usual
 
