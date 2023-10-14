@@ -1,4 +1,5 @@
-# BasicCorePlotForPhys440 - see files within Shared folder here if anything is unclear. This example should plot y = x with CorePlot.
+# BasicCorePlotForPhys440 
+...(see files within Shared folder for more details. This example should plot y = x with CorePlot.)
 
 Start new project as usual
 
@@ -8,7 +9,7 @@ Delete File.swift
 Copy from App to [nameOfActualApp], delete App
 Copy from contentViewText to ContentView, delete contentViewText
 
-File -> Swift Packages -> add dependency -> copy this link {https://github.com/core-plot/core-plot/} and paste into XCode, click next -> type into Branch: "release-2.4"
+File -> Swift Packages -> add dependency -> copy this link https://github.com/core-plot/core-plot/ and paste into XCode, click next -> type into Branch: "release-2.4"
 
 Click main project -> Targets -> General -> Frameworks -> Add CorePlot
 Click main project -> Targets -> Signing and Capabilities -> enable read/write
